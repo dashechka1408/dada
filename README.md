@@ -5,3 +5,5 @@ Yes! We are hiring QA Engineers and Test Automation specialists (Java, C#, JS, P
 Remote positions for SDET!
 
 Open new opportunity for Performance Analyst. 
+
+https://www.linkedin.com/in/dariachernysheva/
